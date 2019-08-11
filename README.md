@@ -19,7 +19,7 @@ git clone https://github.com/rofl0r/proxychains-ng.git
 ./configure --prefix=/usr --sysconfdir=/etc
 make
 sudo make install
-sudo make install-config (installs proxychains.conf)
+sudo make install-config  #(installs proxychains.conf)
 ```
 
 ### config proxychains
